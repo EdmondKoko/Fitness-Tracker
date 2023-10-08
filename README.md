@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3.07-blue?style=for-the-badge&logo=python&logoColor=yellow)
 
 # Модуль фитнес-трекера
 ##  Программный модуль фитнес-трекера,
