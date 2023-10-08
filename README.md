@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=yellow)
+
 # Модуль фитнес-трекера
 ##  Программный модуль фитнес-трекера,
 который обрабатывает данные для трёх видов тренировок: бега, спортивной ходьбы и плавания.
